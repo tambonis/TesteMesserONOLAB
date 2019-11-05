@@ -23,7 +23,7 @@ O Resultado esperado é { "_id" : ObjectId("5dc1772d139e24bbbadacd09"), "Emprest
 
 Bonus: A base de dados pode conter um sério problema. Na sua opinião, qual seria? - Escreva a resposta no README do github
 
-Sugiro que o problema estado associados aos campos ApplicationIncome: Renda e CoapplicationIncome: Renda familiar. 
+Sugiro que o problema esteja associado aos campos ApplicationIncome: Renda e CoapplicationIncome: Renda familiar. 
 É possível que uma pessoa seja a única fonte de renda de uma família e neste caso estes campos seriam iguais. Existem outros problemas associados aos dados, porém, esperados.
 
 # 5 - Observações
