@@ -17,7 +17,7 @@ $ docker run -e ROOT_URL=http://localhost -e MONGO_URL=mongodb://localhost:27017
 
 Após executar os comandos anteriores, rode o notebook ConsumoAPI.ipynb para visualizar como utilizar a API. 
 Uma proposta de análise de exemplo utilizada chama-se Proposta.txt e está no formato json.
-O Resultado esperado é { "_id" : ObjectId("5dc1772d139e24bbbadacd09"), "Emprestar" : "Y", "ID" : "LP001002", "Quantidade (milhares)" : 141.41 } que é inserido no banco de dados "results". No caso, "Emprestar" : "Y" indica que o crédito deve ser concedido e o "Quantidade (milhares)" : 141.41. 
+O Resultado esperado é { "_id" : ObjectId("5dc1772d139e24bbbadacd09"), "Emprestar" : "Y", "ID" : "LP001002", "Quantidade (milhares)" : 141.41 } que é inserido no banco de dados "results". No caso, "Emprestar" : "Y" indica que o crédito deve ser concedido e a "Quantidade (milhares)" : 141.41 indica a quantidade ideal para emprestar. 
 
 # 4 - Bônus
 
