@@ -2,6 +2,9 @@
 
 Tiago Tambonis
 
+# 0 - Clone o repositório
+$ git clone "https://github.com/tambonis/TesteMesserONOLAB.git"
+
 # 1 - Construção (pasta API)
 
 $ docker build -t testemesserfinal . 
