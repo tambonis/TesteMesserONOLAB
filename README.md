@@ -11,7 +11,7 @@ $ docker run -e ROOT_URL=http://localhost -e MONGO_URL=mongodb://localhost:27017
 # 3 - Exemplo de como rodar
 
 Após executar os comandos anteriores rode o notebook ConsumoAPI.ipynb para visualizar como utilizar a API. 
-Uma proposta de análise de exemplo utilizada chama-se Proposta.txt e está no formato adequado ao MongoDB.
+Uma proposta de análise de exemplo utilizada chama-se Proposta.txt e está no formato json.
 
 # 4 - Bônus
 
