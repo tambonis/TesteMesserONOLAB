@@ -1,4 +1,6 @@
-# Resolução Teste Messer - ONOVOLAB - Tiago Tambonis
+# Resolução Teste Messer - ONOVOLAB - Predição de empréstimo pessoal
+
+Tiago Tambonis
 
 # 1 - Construção (pasta API)
 
@@ -18,4 +20,8 @@ Uma proposta de análise de exemplo utilizada chama-se Proposta.txt e está no f
 Bonus: A base de dados pode conter um sério problema. Na sua opinião, qual seria? - Escreva a resposta no README do github
 
 Sugiro que o problema estado associados aos campos ApplicationIncome: Renda e CoapplicationIncome: Renda familiar. 
-É possível que uma pessoa seja a única fonte de renda de uma família e neste caso estes campos seriam iguais.
+É possível que uma pessoa seja a única fonte de renda de uma família e neste caso estes campos seriam iguais. Existem outros problemas associados aos dados, porém, esperados.
+
+# 5 - Observações
+
+A conteinerização não é a ideal e devido a isto é necessário que o MongoDB esteja rodando na máquina onde o teste será realizado.
