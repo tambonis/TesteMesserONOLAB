@@ -27,4 +27,6 @@ Sugiro que o problema estado associados aos campos ApplicationIncome: Renda e Co
 
 # 5 - Observações
 
-A conteinerização não é a ideal e devido a isto é necessário que o MongoDB esteja rodando na máquina onde o teste será realizado.
+5.1 - A conteinerização não é a ideal e devido a isto é necessário que o MongoDB esteja rodando na máquina onde o teste será realizado.
+
+5.2 - Tanto a classificação como a regressão devem ser melhoradas futuramente.
